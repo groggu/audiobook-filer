@@ -7,7 +7,7 @@
 # tools like AudioBookshelf and Plex will use this structure to display your titles in 
 # the proper groupings
 #
-# This script was written on a MacOSX system in python 4, but has been developed so it 
+# This script was written on a MacOSX system in python 3.9.12, but has been developed so it 
 # should work on any OS that supports a python environment.
 #
 
